@@ -1,4 +1,4 @@
-# The exercises here will help you practice values and variables in JavaScript
+# The exercises here will help you practice conditional flows and looping in JavaScript
 **Please don't underrate any question if you are a beginner, repetition is the mother of mastery**
 
 Feel free to create an html file and link it to your JavaScript file to view your outputs in the browser console.
